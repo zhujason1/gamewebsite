@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "3d project unity",
-"productVersion": "0.1",
+"companyName": "Jason",
+"productName": "Clean Up Crew",
+"productVersion": "1.1.9",
 "dataUrl": "gamewebsite.data.unityweb",
 "wasmCodeUrl": "gamewebsite.wasm.code.unityweb",
 "wasmFrameworkUrl": "gamewebsite.wasm.framework.unityweb",
